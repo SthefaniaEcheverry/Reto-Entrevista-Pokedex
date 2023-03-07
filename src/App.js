@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
      <Header/>
-     <div className='main'>
+     <main className='main'>
      <Main/>
      <Card/>
-     </div>
+     </main>
     </div>
   );
 }
